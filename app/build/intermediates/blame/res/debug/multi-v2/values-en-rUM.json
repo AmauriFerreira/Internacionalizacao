@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Amauri\\AndroidStudioProjects\\Internacionalizacao\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rUM\\values-en-rUM.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Amauri\\AndroidStudioProjects\\Internacionalizacao\\app\\src\\main\\res\\values-en-rUM\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "53",
+                        "endOffsets": "106"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "53",
+                        "endOffsets": "104"
+                    }
+                }
+            ]
+        }
+    ]
+}
